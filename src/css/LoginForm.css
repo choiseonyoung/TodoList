@@ -1,0 +1,27 @@
+.login_form {
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.login_form input {
+  display: block;
+  width: 40%;
+  height: 40px;
+  margin: 10px auto;
+  padding: 5px 39px 5px 11px;
+  background-color: #fff;
+  border: 1px solid lightgray;
+}
+
+/* .login_form button {
+  width: 60px;
+  height: 50px;
+  background-color: skyblue;
+  font-size: 15px;
+  font-weight: 700px;
+  line-height: 49px;
+  margin: 16px auto;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+} */

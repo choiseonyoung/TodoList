@@ -1,0 +1,12 @@
+.list_box {
+  width: 100%;
+}
+
+.list_box {
+  height: 50px;
+}
+
+.list_box div p {
+  font-size: 30px;
+  color: black;
+}
