@@ -27,4 +27,4 @@
 3. local project push 준비 : git add .
 4. local project commit 하기 : git commit -m first
 5. 원격, local repository 연결하기 : git remote add ....
-6. git push origin master
+6. git push -u origin master

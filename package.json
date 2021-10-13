@@ -1,5 +1,6 @@
 {
   "name": "react-todo-v3",
+  "homepage": "https://choiseonyoung.github.io/TodoList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
